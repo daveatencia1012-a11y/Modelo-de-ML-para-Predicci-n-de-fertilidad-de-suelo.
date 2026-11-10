@@ -1,0 +1,10 @@
+{
+  "dataset_sha256": "930e0731ce747590aba71ca6d6ffd2f6e77202f812e01fa3e9c19a5b9e5fe5a4",
+  "fuente": "https://www.kaggle.com/datasets/rahuljaiswalonkaggle/soil-fertility-dataset | https://github.com/AgriWiseGP/ML---Soil-Quality | https://www.nature.com/articles/s41598-026-50366-9",
+  "evidencia": "Dataset Kaggle reproducido públicamente con las mismas columnas, las cinco primeras filas completas (incluyendo Output 0,0,0,0,1) y conteos 401/440/39; repositorio AgriWiseGP documenta explícitamente las etiquetas de su Soil Fertility Dataset: 0 Less Fertile, 1 Fertile, 2 Highly Fertile. Scientific Reports 2026 las reproduce, aunque su tabla de estadísticos difiere y no prueba identidad exacta del archivo. Esta es una interpretación respaldada por la procedencia publicada, no una validación agronómica individual.",
+  "correspondencia": {
+    "0": "menos fértil",
+    "1": "fértil",
+    "2": "altamente fértil"
+  }
+}
