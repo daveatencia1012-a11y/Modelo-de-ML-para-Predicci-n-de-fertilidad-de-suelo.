@@ -1,0 +1,8 @@
+[theme]
+# Tema claro compartido por widgets, tablas y gráficas de Streamlit.
+base = "light"
+primaryColor = "#24543A"
+backgroundColor = "#F4F6F3"
+secondaryBackgroundColor = "#F0F2ED"
+textColor = "#1F2D26"
+font = "sans serif"
